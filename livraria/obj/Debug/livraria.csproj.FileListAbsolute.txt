@@ -1,0 +1,10 @@
+C:\TreinamentoC\livraria\livraria\bin\Debug\livraria.exe.config
+C:\TreinamentoC\livraria\livraria\bin\Debug\livraria.exe
+C:\TreinamentoC\livraria\livraria\bin\Debug\livraria.pdb
+C:\TreinamentoC\livraria\livraria\obj\Debug\livraria.csproj.AssemblyReference.cache
+C:\TreinamentoC\livraria\livraria\obj\Debug\livraria.Form1.resources
+C:\TreinamentoC\livraria\livraria\obj\Debug\livraria.Properties.Resources.resources
+C:\TreinamentoC\livraria\livraria\obj\Debug\livraria.csproj.GenerateResource.cache
+C:\TreinamentoC\livraria\livraria\obj\Debug\livraria.csproj.CoreCompileInputs.cache
+C:\TreinamentoC\livraria\livraria\obj\Debug\livraria.exe
+C:\TreinamentoC\livraria\livraria\obj\Debug\livraria.pdb
